@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943931588426",
+    "firebase_url": "https://go-translate-c1e74.firebaseio.com",
+    "project_id": "go-translate-c1e74",
+    "storage_bucket": "go-translate-c1e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943931588426:android:c045b80b78a9b7c25b8bb3",
+        "android_client_info": {
+          "package_name": "com.example.gotranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943931588426-35svgft300bdhl2vq50j91oevfulbcsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNwvdTQ66AuPoPMxdFcPQ6oxiNqb6_Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943931588426-35svgft300bdhl2vq50j91oevfulbcsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
